@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://github.com/vaibhavtyagidev">
+<a href="https://github.com/vaibhavtyagicse">
 <img src="https://img.shields.io/badge/GITHUB-vaibhavtyagidev-07111F?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 &nbsp;
