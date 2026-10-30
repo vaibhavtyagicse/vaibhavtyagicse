@@ -168,7 +168,7 @@ Tools for creating and working with QR codes.
 <tr>
 <td width="33%" valign="top">
 
-## 📄 DocuFlow
+## 📄 DocuFlow AI
 
 **PDF TOOLKIT**
 
