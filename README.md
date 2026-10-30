@@ -8,6 +8,10 @@
 
 <br><br>
 
+<a href="https://vaibhavtyagi2008.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-vaibhavtyagi2008.vercel.app-07111F?style=for-the-badge&logo=vercel&logoColor=22D3EE"/>
+</a>
+&nbsp;
 <a href="https://github.com/vaibhavtyagicse">
 <img src="https://img.shields.io/badge/GITHUB-vaibhavtyagicse-07111F?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
@@ -108,6 +112,8 @@ Modern billing and inventory management platform for businesses.
 
 **SMART SOCIETY MANAGEMENT**
 
+`BUILDING PHASE`
+
 Digital management platform for housing societies, residents and administration.
 
 `AI` `Management` `Society`
@@ -116,9 +122,11 @@ Digital management platform for housing societies, residents and administration.
 
 <td width="33%" valign="top">
 
-## 🚇 MetroSetu
+## <img src="https://www.google.com/s2/favicons?domain=metrosetu.vercel.app&sz=128" width="24" height="24" alt="MetroSetu logo"/> MetroSetu
 
 **METRO ALL IN ONE**
+
+[Live Demo](https://metrosetu.vercel.app/)
 
 Transit platform bringing metro and regional transit information together.
 
@@ -142,9 +150,11 @@ Online coding environment for writing, running and testing programs.
 
 <td width="33%" valign="top">
 
-## 📊 Investudio Pro
+## <img src="https://www.google.com/s2/favicons?domain=invostudio-pro.vercel.app&sz=128" width="24" height="24" alt="InvoStudio logo"/> InvoStudio
 
 **INVESTMENT PLATFORM**
+
+[Live Demo](https://invostudio-pro.vercel.app/)
 
 Modern platform focused on investment and financial information.
 
@@ -154,9 +164,11 @@ Modern platform focused on investment and financial information.
 
 <td width="33%" valign="top">
 
-## 🔳 GetAllQR
+## <img src="https://www.google.com/s2/favicons?domain=getallqr.vercel.app&sz=128" width="24" height="24" alt="GetAllQR logo"/> GetAllQR
 
 **QR UTILITY PLATFORM**
+
+[Live Demo](https://getallqr.vercel.app/)
 
 Tools for creating and working with QR codes.
 
@@ -168,9 +180,11 @@ Tools for creating and working with QR codes.
 <tr>
 <td width="33%" valign="top">
 
-## 📄 DocuFlow
+## <img src="https://www.google.com/s2/favicons?domain=getdocflow.vercel.app&sz=128" width="24" height="24" alt="DocuFlow logo"/> DocuFlow
 
 **PDF TOOLKIT**
+
+[Live Demo](https://getdocflow.vercel.app/)
 
 Browser-based document and PDF utilities for everyday workflows.
 
@@ -180,9 +194,11 @@ Browser-based document and PDF utilities for everyday workflows.
 
 <td width="33%" valign="top">
 
-## 🌦️ MausamSetu
+## <img src="https://www.google.com/s2/favicons?domain=mausamsetu.vercel.app&sz=128" width="24" height="24" alt="MausamSetu logo"/> MausamSetu
 
 **LIVE WEATHER UPDATES**
+
+[Live Demo](https://mausamsetu.vercel.app/)
 
 Weather platform designed to provide simple and useful weather information.
 
@@ -192,9 +208,11 @@ Weather platform designed to provide simple and useful weather information.
 
 <td width="33%" valign="top">
 
-## 🎓 StudentToolkit
+## <img src="https://www.google.com/s2/favicons?domain=stukit.vercel.app&sz=128" width="24" height="24" alt="StudentToolkit logo"/> StudentToolkit
 
 **TOOLS FOR STUDENTS**
+
+[Live Demo](https://stukit.vercel.app/)
 
 Academic and student productivity utilities.
 
