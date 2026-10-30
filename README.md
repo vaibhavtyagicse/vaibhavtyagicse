@@ -142,13 +142,13 @@ Online coding environment for writing, running and testing programs.
 
 <td width="33%" valign="top">
 
-## 📊 Investudio Pro
+## 📊 InvoStudio Pro
 
-**INVESTMENT PLATFORM**
+**INVOICE GENERATING PLATFORM**
 
-Modern platform focused on investment and financial information.
+Modern platform focused on business and invoices information.
 
-`Finance` `Investment`
+`Finance` `Business Growing and Digital India` 
 
 </td>
 
