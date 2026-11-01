@@ -256,9 +256,9 @@
 <p>The snake animation is generated automatically every day using GitHub Actions.</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavtyagidev/vaibhavtyagicse/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavtyagidev/vaibhavtyagicse/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vaibhavtyagidev/vaibhavtyagicse/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavtyagicse/vaibhavtyagicse/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavtyagicse/vaibhavtyagicse/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vaibhavtyagicse/vaibhavtyagicse/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
