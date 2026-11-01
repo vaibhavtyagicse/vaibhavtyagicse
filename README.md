@@ -6,8 +6,8 @@
 <br/><br/>
 
 <a href="https://vaibhavtyagi2008.vercel.app/"><img src="https://img.shields.io/badge/▲_PORTFOLIO-22D3EE?style=for-the-badge"/></a>
-<a href="https://github.com/vaibhavtyagidev"><img src="https://img.shields.io/badge/GITHUB_I-111827?style=for-the-badge&logo=github"/></a>
-<a href="https://github.com/vaibhavtyagicse"><img src="https://img.shields.io/badge/GITHUB_II-111827?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/vaibhavtyagicse"><img src="https://img.shields.io/badge/GITHUB_I-111827?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/vaibhavtyagidev"><img src="https://img.shields.io/badge/GITHUB_II-111827?style=for-the-badge&logo=github"/></a>
 <a href="https://instagram.com/vaibhavtyagi.dev"><img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 
 <br/><br/>
@@ -247,7 +247,7 @@
 
 <h3>📅 Contribution Table</h3>
 
-<img src="https://ghchart.rshah.org/22D3EE/vaibhavtyagidev" width="100%" alt="GitHub contribution calendar for Vaibhav Tyagi"/>
+<img src="https://ghchart.rshah.org/22D3EE/vaibhavtyagicse" width="100%" alt="GitHub contribution calendar for Vaibhav Tyagi"/>
 
 <br/><br/>
 
@@ -256,9 +256,9 @@
 <p>The snake animation is generated automatically every day using GitHub Actions.</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavtyagidev/vaibhavtyagidev/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavtyagidev/vaibhavtyagidev/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vaibhavtyagidev/vaibhavtyagidev/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavtyagidev/vaibhavtyagicse/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavtyagidev/vaibhavtyagicse/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vaibhavtyagidev/vaibhavtyagicse/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
@@ -273,7 +273,7 @@
 
 <br/>
 
-<a href="https://github.com/vaibhavtyagidev">
+<a href="https://github.com/vaibhavtyagicse">
 <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-22D3EE?style=for-the-badge&logo=github&logoColor=07111F" alt="Explore GitHub"/>
 </a>
 
