@@ -1,271 +1,239 @@
+
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Vaibhav Tyagi GitHub profile hero"/>
+<img src="./assets/header.png" width="100%" alt="Vaibhav Tyagi Header"/>
 
-<br>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+ideas+into+real+products.;Learning+%7C+Building+%7C+Shipping;Software+%7C+AI+%7C+Cloud+%7C+Problem+Solving"/>
+<a href="https://vaibhavtyagi2008.vercel.app/"><img src="https://img.shields.io/badge/▲_PORTFOLIO-22D3EE?style=for-the-badge"/></a>
+<a href="https://github.com/vaibhavtyagidev"><img src="https://img.shields.io/badge/GITHUB_I-111827?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/vaibhavtyagicse"><img src="https://img.shields.io/badge/GITHUB_II-111827?style=for-the-badge&logo=github"/></a>
+<a href="https://instagram.com/vaibhavtyagi.dev"><img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
 
-<br><br>
+<br/><br/>
 
-<a href="https://github.com/vaibhavtyagicse">
-<img src="https://img.shields.io/badge/GITHUB-vaibhavtyagicse-07111F?style=for-the-badge&logo=github&logoColor=22D3EE"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/vaibhavtyagi.dev">
-<img src="https://img.shields.io/badge/INSTAGRAM-vaibhavtyagi.dev-07111F?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
+<img src="https://img.shields.io/badge/BASED_IN-INDIA-07111F?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%26%20AI-07111F?style=flat-square"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-07111F?style=flat-square"/>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-<h2>01 / FROM THOUGHT TO THING</h2>
-
-# IDEAS. BUILT DIFFERENT.
-
-I build practical digital products that turn everyday problems into simple, useful software.
-
-<br>
-
 <div align="center">
 
-**01 IDEATE** → **02 DESIGN** → **03 BUILD** → **04 TEST** → **05 SHIP**
+<h2>01 / ABOUT ME</h2>
+
+<h1>Ideas. Built Different.</h1>
+
+<p>I build practical digital products that turn everyday problems into simple, useful software.</p>
+
+<p>
+<code>01 IDEATE</code> ➜ <code>02 DESIGN</code> ➜ <code>03 BUILD</code> ➜ <code>04 TEST</code> ➜ <code>05 SHIP</code>
+</p>
+
+<h3>💻 Software Development</h3>
+<p>Building useful digital products from idea to deployment.</p>
+
+<h3>🤖 AI & Cloud</h3>
+<p>Exploring AI-powered applications, automation and cloud systems.</p>
+
+<h3>🧠 Problem Solving</h3>
+<p>Improving programming fundamentals, DSA and logical thinking.</p>
+
+<h3>🚀 Product Building</h3>
+<p>Turning ideas into real products.</p>
 
 </div>
 
-<br>
+---
 
-### 💻 SOFTWARE DEVELOPMENT
-Building useful digital products from idea to deployment.
+<div align="center">
 
-### 🤖 AI & CLOUD
-Exploring AI-powered applications, automation and cloud systems.
+<h2>02 / BEYOND THE CODE</h2>
 
-### 🧠 PROBLEM SOLVING
-Improving programming fundamentals, DSA and logical thinking.
+<h1>More Than a Job Title.</h1>
 
-### 🚀 PRODUCT BUILDING
-Turning ideas into real products.
+<p>🎓 <b>B.Tech CSE</b></p>
+<p>Computer Science & Engineering student.</p>
 
-</td>
+<p>💻 <b>Developer</b></p>
+<p>Building digital products and utilities.</p>
 
-<td width="42%" valign="top">
+<p>🚀 <b>Builder</b></p>
+<p>Turning ideas into working products.</p>
 
-<h2>02 / LIFE OUTSIDE THE CODE</h2>
+<p>🧠 <b>Learner</b></p>
+<p>Always exploring new technology.</p>
 
-# MORE THAN A JOB TITLE.
+<h3>CURRENT FOCUS</h3>
 
-### 🎓 BTECH CSE
-Computer Science & Engineering student.
+<p>
+<code>DSA</code> &nbsp;
+<code>AI</code> &nbsp;
+<code>CLOUD</code> &nbsp;
+<code>PRODUCT BUILDING</code>
+</p>
 
-### 💻 DEVELOPER
-Building digital products and utilities.
-
-### 🚀 BUILDER
-Turning ideas into working products.
-
-### 🧠 LEARNER
-Always exploring new technology.
-
-<br>
-
-**CURRENT FOCUS**
-
-`DSA` · `AI` · `CLOUD` · `PRODUCT BUILDING`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
+
+<div align="center">
 
 <h2>03 / SELECTED WORK</h2>
 
-# THINGS I'M BUILDING.
+<h1>Things I'm Building.</h1>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<p>A collection of digital products, tools and experiments.</p>
 
-## 🧾 PakkaBill
+<br/>
 
-**GST BILLING**
+<h2>🧾 PakkaBill</h2>
+<h3>GST BILLING & INVENTORY</h3>
 
-Modern billing and inventory management platform for businesses.
+<img src="https://img.shields.io/badge/●_BUILDING_PHASE-DC2626?style=for-the-badge&labelColor=7F1D1D" alt="Building Phase"/>
 
-`GST` `Billing` `Business`
+<p>Modern billing and inventory management platform for businesses.</p>
 
-</td>
-
-<td width="33%" valign="top">
-
-## 🏛️ PanchayatAI
-
-**SMART SOCIETY MANAGEMENT**
-
-Digital management platform for housing societies, residents and administration.
-
-`AI` `Management` `Society`
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🚇 MetroSetu
-
-**METRO ALL IN ONE**
-
-Transit platform bringing metro and regional transit information together.
-
-`Transit` `Metro` `Travel`
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-## 💻 CodeMaster
-
-**CREATE · CODE · COMPILE**
-
-Online coding environment for writing, running and testing programs.
-
-`Compiler` `Coding` `Developer Tool`
-
-</td>
-
-<td width="33%" valign="top">
-
-## 📊 Investudio Pro
-
-**INVESTMENT PLATFORM**
-
-Modern platform focused on investment and financial information.
-
-`Finance` `Investment`
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🔳 GetAllQR
-
-**QR UTILITY PLATFORM**
-
-Tools for creating and working with QR codes.
-
-`QR` `Utility`
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-## 📄 DocuFlow
-
-**PDF TOOLKIT**
-
-Browser-based document and PDF utilities for everyday workflows.
-
-`PDF` `Documents` `Productivity`
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🌦️ MausamSetu
-
-**LIVE WEATHER UPDATES**
-
-Weather platform designed to provide simple and useful weather information.
-
-`Weather` `Forecast`
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🎓 StudentToolkit
-
-**TOOLS FOR STUDENTS**
-
-Academic and student productivity utilities.
-
-`Education` `Students` `Productivity`
-
-</td>
-</tr>
-</table>
+<p><code>GST</code> <code>Billing</code> <code>Business</code></p>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<h2>🏘️ PanchayatAI</h2>
+<h3>SMART SOCIETY MANAGEMENT</h3>
+
+<img src="https://img.shields.io/badge/●_BUILDING_PHASE-DC2626?style=for-the-badge&labelColor=7F1D1D" alt="Building Phase"/>
+
+<p>Digital management platform for housing societies, residents and administration.</p>
+
+<p><code>AI</code> <code>Management</code> <code>Society</code></p>
+
+---
+
+<h2>🚆 MetroSetu</h2>
+<h3>METRO ALL IN ONE</h3>
+
+<a href="https://metrosetu.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=07111F"/>
+</a>
+
+<p>Transit platform bringing metro and regional transit information together.</p>
+
+<p><code>Transit</code> <code>Metro</code> <code>Travel</code></p>
+
+---
+
+<h2>🧾 InvoStudio</h2>
+<h3>SMART INVOICE & BILLING PLATFORM</h3>
+
+<a href="https://invostudio-pro.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=07111F"/>
+</a>
+
+<p>A modern invoice management platform to create professional invoices, manage customers, calculate GST, track payments and simplify business billing.</p>
+
+<p>
+<code>Invoice Generator</code>
+<code>GST Billing</code>
+<code>PDF Invoices</code>
+<code>Customer Management</code>
+<code>Payment Tracking</code>
+<code>Business Profile</code>
+<code>Tax Calculation</code>
+<code>Billing Automation</code>
+</p>
+
+---
+
+<h2>🔳 GetAllQR</h2>
+<h3>QR UTILITY PLATFORM</h3>
+
+<a href="https://getallqr.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=07111F"/>
+</a>
+
+<p>Tools for creating and working with QR codes.</p>
+
+<p><code>QR</code> <code>Utility</code></p>
+
+---
+
+<h2>📄 DocuFlow</h2>
+<h3>PDF TOOLKIT</h3>
+
+<a href="https://getdocflow.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=07111F"/>
+</a>
+
+<p>Browser-based document and PDF utilities for everyday workflows.</p>
+
+<p><code>PDF</code> <code>Documents</code> <code>Productivity</code></p>
+
+---
+
+<h2>🌦️ MausamSetu</h2>
+<h3>LIVE WEATHER UPDATES</h3>
+
+<a href="https://mausamsetu.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=07111F"/>
+</a>
+
+<p>Weather platform designed to provide simple and useful weather information.</p>
+
+<p><code>Weather</code> <code>Forecast</code></p>
+
+---
+
+<h2>🎓 StudentToolkit</h2>
+<h3>TOOLS FOR STUDENTS</h3>
+
+<a href="https://stukit.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=07111F"/>
+</a>
+
+<p>Academic and student productivity utilities.</p>
+
+<p><code>Education</code> <code>Students</code> <code>Productivity</code></p>
+
+</div>
+
+---
+
+<div align="center">
 
 <h2>04 / TECH STACK</h2>
 
-# TOOLS I BUILD WITH.
+<h1>Tools I Build With.</h1>
 
-### PROGRAMMING LANGUAGES
+<h3>👨‍💻 Programming Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=c,python" />
+<img src="https://skillicons.dev/icons?i=c,python" alt="C and Python"/>
 
-### TOOLS & PLATFORMS
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,supabase" />
+<h3>🛠️ Tools & Platforms</h3>
 
-</td>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,supabase" alt="Git, GitHub, Vercel and Supabase"/>
 
-<td width="50%" valign="top">
+</div>
+
+---
+
+<div align="center">
 
 <h2>05 / CURRENTLY LEARNING</h2>
 
-# ALWAYS LEARNING.
+<h1>Always Learning.</h1>
 
-### 🧩 DATA STRUCTURES
-Arrays · Linked Lists · Algorithms · Problem Solving
+<h3>🧩 Data Structures</h3>
+<p>Arrays · Linked Lists · Algorithms · Problem Solving</p>
 
-### 🗄️ DATABASES
-Database Design · SQL · Data Management
+<h3>🗄️ Databases</h3>
+<p>Database Design · SQL · Data Management</p>
 
-### 🤖 AI
-AI Tools · Automation · GenAI · Intelligent Apps
-
-</td>
-</tr>
-</table>
-
----
-
-<h2>06 / GITHUB ACTIVITY</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhavtyagidev&show_icons=true&hide_border=true&bg_color=07111F&title_color=22D3EE&icon_color=3B82F6&text_color=CBD5E1&count_private=true" width="48%"/>
-
-<img src="https://streak-stats.demolab.com?user=vaibhavtyagidev&theme=dark&hide_border=true&background=07111F&ring=22D3EE&fire=3B82F6&currStreakLabel=22D3EE" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavtyagidev&layout=compact&hide_border=true&bg_color=07111F&title_color=22D3EE&text_color=CBD5E1"/>
-
-</div>
-
----
-
-<h2>07 / CONTRIBUTION GRAPH</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavtyagidev&bg_color=07111F&color=22D3EE&line=3B82F6&point=FFFFFF&area=true&hide_border=true"/>
+<h3>🤖 Artificial Intelligence</h3>
+<p>AI Tools · Automation · GenAI · Intelligent Apps</p>
 
 </div>
 
@@ -273,24 +241,50 @@ AI Tools · Automation · GenAI · Intelligent Apps
 
 <div align="center">
 
-# BUILD SOMETHING USEFUL.
+<h2>06 / CONTRIBUTION ACTIVITY</h2>
 
-**Learn something new. Build something real. Then make it better.**
+<h1>Consistency Over Everything. 🚀</h1>
 
-<br>
+<h3>📅 Contribution Table</h3>
+
+<img src="https://ghchart.rshah.org/22D3EE/vaibhavtyagidev" width="100%" alt="GitHub contribution calendar for Vaibhav Tyagi"/>
+
+<br/><br/>
+
+<h3>🐍 Contribution Snake</h3>
+
+<p>The snake animation is generated automatically every day using GitHub Actions.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavtyagidev/vaibhavtyagidev/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavtyagidev/vaibhavtyagidev/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/vaibhavtyagidev/vaibhavtyagidev/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<h1>BUILD SOMETHING USEFUL.</h1>
+
+<p><b>Learn something new. Build something real. Then make it better.</b></p>
+
+<br/>
 
 <a href="https://github.com/vaibhavtyagidev">
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-22D3EE?style=for-the-badge&logo=github&logoColor=07111F"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-22D3EE?style=for-the-badge&logo=github&logoColor=07111F" alt="Explore GitHub"/>
 </a>
 
-<br><br>
+<br/><br/>
 
 <a href="https://instagram.com/vaibhavtyagi.dev">
-<img src="https://img.shields.io/badge/@vaibhavtyagi.dev-111827?style=for-the-badge&logo=instagram&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/@vaibhavtyagi.dev-111827?style=for-the-badge&logo=instagram&logoColor=22D3EE" alt="Instagram"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-**MADE WITH ❤️ IN INDIA**
+<b>MADE WITH ❤️ IN INDIA 🇮🇳</b>
 
 </div>
